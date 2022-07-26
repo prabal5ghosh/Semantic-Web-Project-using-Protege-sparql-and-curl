@@ -1,0 +1,74 @@
+<http://id.crossref.org/issn/2194-5357>
+      a       <http://purl.org/ontology/bibo/Journal> ;
+      <http://prismstandard.org/namespaces/basic/2.1/issn>
+              "2194-5365" , "2194-5357" ;
+      <http://purl.org/dc/terms/title>
+              "Advances in Intelligent Systems and Computing" ;
+      <http://purl.org/ontology/bibo/issn>
+              "2194-5365" , "2194-5357" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              "urn:issn:2194-5365" , "urn:issn:2194-5357" .
+
+<http://dx.doi.org/10.1007/978-3-319-47952-1_30>
+      <http://prismstandard.org/namespaces/basic/2.1/doi>
+              "10.1007/978-3-319-47952-1_30" ;
+      <http://prismstandard.org/namespaces/basic/2.1/endingPage>
+              "396" ;
+      <http://prismstandard.org/namespaces/basic/2.1/startingPage>
+              "383" ;
+      <http://purl.org/dc/terms/creator>
+              <http://id.crossref.org/contributor/s-subbulakshmi-27e4b5j6wxqs4> , <http://id.crossref.org/contributor/k-ramar-27e4b5j6wxqs4> , <http://id.crossref.org/contributor/t-u-sreedevi-27e4b5j6wxqs4> , <http://id.crossref.org/contributor/r-renjitha-27e4b5j6wxqs4> ;
+      <http://purl.org/dc/terms/date>
+              "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+      <http://purl.org/dc/terms/identifier>
+              "10.1007/978-3-319-47952-1_30" ;
+      <http://purl.org/dc/terms/isPartOf>
+              <http://id.crossref.org/issn/2194-5357> ;
+      <http://purl.org/dc/terms/publisher>
+              "Springer International Publishing" ;
+      <http://purl.org/dc/terms/title>
+              "Implementation of Adaptive Framework and WS Ontology for Improving QoS in Recommendation of WS" ;
+      <http://purl.org/ontology/bibo/doi>
+              "10.1007/978-3-319-47952-1_30" ;
+      <http://purl.org/ontology/bibo/pageEnd>
+              "396" ;
+      <http://purl.org/ontology/bibo/pageStart>
+              "383" ;
+      <http://www.w3.org/2002/07/owl#sameAs>
+              <info:doi/10.1007/978-3-319-47952-1_30> , <doi:10.1007/978-3-319-47952-1_30> .
+
+<http://id.crossref.org/contributor/s-subbulakshmi-27e4b5j6wxqs4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Subbulakshmi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "S." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "S. Subbulakshmi" .
+
+<http://id.crossref.org/contributor/k-ramar-27e4b5j6wxqs4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Ramar" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "K." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "K. Ramar" .
+
+<http://id.crossref.org/contributor/t-u-sreedevi-27e4b5j6wxqs4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Sreedevi" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "T. U." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "T. U. Sreedevi" .
+
+<http://id.crossref.org/contributor/r-renjitha-27e4b5j6wxqs4>
+      a       <http://xmlns.com/foaf/0.1/Person> ;
+      <http://xmlns.com/foaf/0.1/familyName>
+              "Renjitha" ;
+      <http://xmlns.com/foaf/0.1/givenName>
+              "R." ;
+      <http://xmlns.com/foaf/0.1/name>
+              "R. Renjitha" .

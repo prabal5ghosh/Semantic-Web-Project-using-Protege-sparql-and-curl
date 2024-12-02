@@ -1,2 +1,4 @@
-# Semantic-Web-Project-using-Protege-sparql-and-curl
-This project I did duirng masters of computer application at Amrita viswa Vidyapeetham, India in semantic web course.
+# Semantic-Web-Project-using-Protege-SPARQL-and-curl
+I did this project during my master's of computer application degree at Amrita Vishwa Vidyapeetham, India in the Semantic web course.
+Professor - Dr. S. Subbulakshmi
+
